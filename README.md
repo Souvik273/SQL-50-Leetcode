@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
