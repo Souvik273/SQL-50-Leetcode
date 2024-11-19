@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/1155-product-sales-analysis-iii) |
