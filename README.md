@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1155-product-sales-analysis-iii](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/1182-game-play-analysis-iv) |
