@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0180-consecutive-numbers) |
 | [0596-classes-more-than-5-students](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0596-classes-more-than-5-students) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/0626-exchange-seats) |
