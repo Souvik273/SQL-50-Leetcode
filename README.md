@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Hash Table
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## String
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## Sliding Window
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Souvik273/SQL-50-Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 <!---LeetCode Topics End-->
